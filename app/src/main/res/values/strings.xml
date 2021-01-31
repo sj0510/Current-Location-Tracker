@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Location Tracker</string>
+    <string name="get_your_current_location">Get your current Location</string>
+    <string name="enter_any_number_1_5">enter any number (1-5)</string>
+    <string name="get_location">Get Location</string>
+    <string name="location_details">Location Details</string>
+    <string name="country">Country :</string>
+    <string name="country_name">Country Name</string>
+    <string name="state">State :</string>
+    <string name="state_name">State Name</string>
+    <string name="city">City :</string>
+    <string name="city_name">City Name</string>
+    <string name="pincode">Pincode :</string>
+    <string name="_123456">123456</string>
+    <string name="address">Address :</string>
+    <string name="address1">Address</string>
+</resources>
